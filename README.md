@@ -53,6 +53,7 @@ This API uses standard HTTP status codes to indicate the success or failure of a
   "message": "The field 'date' is required for this request.",
   "status_code": 422
 }
+```
 
 📂 About This Documentation
 This project was drafted as part of a technical writing portfolio to demonstrate proficiency in documenting CRUD operations, JSON data structures, and RESTful API security standards.
